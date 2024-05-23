@@ -40,25 +40,15 @@ A classic chess game developed with Flutter.
 ## Skills
 
 ### Flutter Skills
-- Flutter Framework
-- Dart Programming
-- UI/UX Design
-- Responsive & Adaptive UI Design
-- State Management
-- RESTful APIs Integration
-- Firebase Integration
-- MVVM Pattern
-- MVC Pattern
+- Flutter Framework, Dart Programming, UI/UX Design
+- Responsive & Adaptive UI Design, State Management
+- RESTful APIs Integration, Firebase Integration
+- MVVM Pattern, MVC Pattern
 
 ### Programming Skills
-- Version Control (Git)
-- Testing and Debugging
-- Problem Solving
-- Object-Oriented Programming (OOP)
-- Data Structures
-- Algorithm Design
-- Code Optimization
-- Design Patterns
+- Version Control (Git), Testing and Debugging, Problem Solving
+- Object-Oriented Programming (OOP), Data Structures, Algorithm Design
+- Code Optimization, Design Patterns
 
 ## How to Reach Me
 - **Email:** [mohamedrashadhyg@gmail.com](mailto:mohamedrashadhyg@gmail.com)
