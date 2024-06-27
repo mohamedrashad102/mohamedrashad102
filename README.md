@@ -1,16 +1,16 @@
-# Mohamed Rashad - Flutter Developer
+# 👋 Hello, I'm [Mohamed Rashad]!
 
-## Profile Summary
-Flutter Developer skilled in Dart programming with a strong foundation in crafting cross-platform mobile applications. Passionate about delivering intuitive user experiences and collaborating with diverse teams to achieve project milestones.
+🎓 **Student at Faculty of Computers and Information, Zagazig University**
 
-## Contact Information
-- **Location:** Zagazig, Al Sharqia
-- **Phone:** +201555761846
-- **Email:** [mohamedrashadhyg@gmail.com](mailto:mohamedrashadhyg@gmail.com)
-- **LinkedIn:** [Mohamed Rashad](https://www.linkedin.com/in/mohamed-rashad-2bb024288/)
-- **GitHub:** [mohamedrashad102](https://github.com/mohamedrashad102)
+🌟 **Flutter Developer**
 
-## Projects
+---
+
+## 📚 About Me
+
+I am currently pursuing my studies in computer science at Zagazig University. I have a passion for mobile application development and specialize in using Flutter to create beautiful, responsive, and efficient applications.
+
+## 💼 Projects
 
 ### [E-Learning](https://github.com/MohamedAbdelmaboud/E-Learning)
 A user interface design for an online learning platform. The app features a visually appealing and intuitive layout for course browsing, video lectures, and progress tracking.
@@ -29,6 +29,59 @@ A calculator for the Skrew game that generates tables and stores scores for each
 
 ### [Chess Game](https://github.com/mohamedrashad102/chess)
 A classic chess game developed with Flutter.
+## 📫 Contact Me
+
+- **Email:** [your-email@example.com]
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile/)
+- **GitHub:** [Your GitHub Profile](https://github.com/yourprofile)
+
+---
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 🌱 Currently Learning
+
+I am constantly learning and improving my skills in Flutter and Dart. I am also exploring other areas of software development and new technologies.
+
+## 🛠 Skills
+
+- **Languages:** Dart, [Other languages]
+- **Frameworks:** Flutter, [Other frameworks]
+- **Tools:** [List of tools you use]
+
+## 🎯 Goals
+
+- Become proficient in Flutter and Dart.
+- Contribute to open-source projects.
+- Develop innovative and impactful mobile applications.
+
+---
+
+Thank you for visiting my profile! Feel free to connect with me or check out my projects.
+
+
+
+# Mohamed Rashad - Flutter Developer
+
+## Profile Summary
+Flutter Developer skilled in Dart programming with a strong foundation in crafting cross-platform mobile applications. Passionate about delivering intuitive user experiences and collaborating with diverse teams to achieve project milestones.
+
+## Contact Information
+- **Location:** Zagazig, Al Sharqia
+- **Phone:** +201555761846
+- **Email:** [mohamedrashadhyg@gmail.com](mailto:mohamedrashadhyg@gmail.com)
+- **LinkedIn:** [Mohamed Rashad](https://www.linkedin.com/in/mohamed-rashad-2bb024288/)
+- **GitHub:** [mohamedrashad102](https://github.com/mohamedrashad102)
+
+## Projects
+
+
 
 ## Education
 - **Faculty of Computer Science, Zagazig University, 2021 - 2025**
