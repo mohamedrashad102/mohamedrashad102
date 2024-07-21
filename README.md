@@ -36,7 +36,6 @@ I am currently pursuing my studies in computer science at Zagazig University. I 
 
 - **Email:** mohamedrashadhyg@gmail.com
 - **LinkedIn:** [Mohamed Rashad](https://www.linkedin.com/in/mohamed-rashad-2bb024288/)
-- **GitHub:** [Mohamed Rashad](https://github.com/mohamedrashad102)
 
 ---
 
@@ -45,25 +44,6 @@ I am currently pursuing my studies in computer science at Zagazig University. I 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedrashad102&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrashad102&layout=compact&theme=radical)
-
----
-
-## 🌱 Currently Learning
-
-I am constantly learning and improving my skills in Flutter and Dart. I am also exploring other areas of software development and new technologies.
-
-## 🛠 Skills
-
-- **Languages:** Dart
-- **Frameworks:** Flutter
-- **Tools:** Git, Firebase, Hive
-- **Other Skills:** UI/UX Design, Responsive & Adaptive UI Design, State Management, RESTful APIs Integration, MVVM Pattern, MVC Pattern, Testing and Debugging, Problem Solving, Object-Oriented Programming (OOP), Data Structures, Algorithm Design, Code Optimization, Design Patterns
-
-## 🎯 Goals
-
-- Become proficient in Flutter and Dart.
-- Contribute to open-source projects.
-- Develop innovative and impactful mobile applications.
 
 ---
 
