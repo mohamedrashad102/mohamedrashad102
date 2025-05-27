@@ -57,7 +57,6 @@ A comprehensive learning platform offering high-quality courses for students fro
 
 <p align="center">
   <br>
-  ![tadabr](https://github.com/user-attachments/assets/0581a656-26a1-4567-8c1f-676921cbb606)
 </p>
 <p align="center">
   <a href="https://apkpure.com/ar/%D8%A7%D9%85%D8%AA%D9%8A%D8%A7%D8%B2/com.imtyazeplus.imtyaze">
@@ -75,7 +74,7 @@ A cross-platform Islamic application featuring Quran recitation, Hadiths, Azkar,
 
 <p align="center">
   <br>
-  ![tadabr](https://github.com/user-attachments/assets/8c40cfb1-6ca9-44cf-9fa5-98ee19787094)
+  ![tadabr](https://github.com/user-attachments/assets/c7265f28-4f23-4e58-aacf-ff0db47b9ae4)
 </p>
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.binaryplus.tadabar&pcampaignid=web_share">
@@ -99,8 +98,4 @@ I'm always open to new opportunities, collaborations, and discussions about Flut
   <a href="https://github.com/mohamedrashad102">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- If you have a personal portfolio, uncomment and update the link below: -->
-  <!-- <a href="YOUR_PERSONAL_PORTFOLIO_LINK">
-    <img src="https://img.shields.io/badge/My%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a> -->
 </p>
