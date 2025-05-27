@@ -3,7 +3,7 @@
   </a>
   <h1 align="center">Hi there! I'm Mohamed Rashad 👋</h1>
   <p align="center">
-    A passionate <b style="color: #007BFF;">Flutter Developer</b> & <b style="color: #00C19B;">Cross-Platform Mobile Applications Engineer</b> 
+    A <b style="color: #007BFF;">Flutter Developer</b> & <b style="color: #00C19B;">Cross-Platform Mobile Applications Engineer</b> 
     crafting intuitive and beautiful experiences.
   </p>
 </div>
@@ -12,9 +12,13 @@
 
 ### 🚀 About Me
 
-I'm Mohamed Rashad, a dedicated Flutter Developer and Mobile App Engineer with **+2 years of experience** building high-performance cross-platform mobile applications. I'm proficient in state management, Firebase integration, and applying clean architecture principles. Currently, I am pursuing my studies at the **Faculty of Computer Science, Zagazig University (2021-2025)**.
+Hi, I'm **Mohamed Rashad** – a Flutter Developer with over **2 years of experience** in building high-performance, cross-platform mobile apps.
 
-My commitment lies in delivering intuitive user experiences and collaborating effectively to achieve project goals, turning innovative ideas into engaging digital products.
+- 💻 Proficient in **state management**, **Firebase**, and **clean architecture**
+- 🎯 Focused on creating smooth user experiences and scalable codebases
+- 🎓 Studying Computer Science at **Zagazig University (2021–2025)**
+
+I enjoy transforming ideas into impactful mobile solutions and collaborating on meaningful projects.
 
 ---
 
