@@ -74,7 +74,7 @@ A cross-platform Islamic application featuring Quran recitation, Hadiths, Azkar,
 
 <p align="center">
   <br>
-  ![tadabr](https://github.com/user-attachments/assets/c7265f28-4f23-4e58-aacf-ff0db47b9ae4)
+  <img src="tadabr.png" alt="Tadabar" />
 </p>
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.binaryplus.tadabar&pcampaignid=web_share">
