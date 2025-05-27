@@ -1,50 +1,106 @@
-# 👋 Hello, I'm Mohamed Rashad!
-
-🎓 **Student at Faculty of Computers and Information, Zagazig University (2021 - 2025)**
-
-🌟 **Flutter Developer**
-
----
-
-## 📚 About Me
-
-I am currently pursuing my studies in computer science at Zagazig University. I have a passion for mobile application development and specialize in using Flutter to create beautiful, responsive, and efficient applications. I am skilled in Dart programming and have a strong foundation in crafting cross-platform mobile applications.
-
-## 💼 Projects
-
-### [BankDash](https://github.com/mohamedrashad102/bank_dash)
-- **Description:** A responsive and adaptive banking dashboard application designed for mobile and desktop. It includes fully implemented UI and logic for transactions, accounts, investments, credit cards, loans, services, privileges, and settings, ensuring a comprehensive user experience.
-- **Technologies Used:** Flutter, Dart
-
-### [E-Learning](https://github.com/MohamedAbdelmaboud/E-Learning)
-- **Description:** A user interface design for an online learning platform. The app features a visually appealing and intuitive layout for course browsing, video lectures, and progress tracking.
-- **Technologies Used:** Flutter, Dart
-
-### [Adaptive Dashboard](https://github.com/mohamedrashad102/adaptive_dashboard.git)
-- **Description:** A responsive dashboard application designed for various screen sizes, implementing adaptive UI principles using Flutter.
-- **Technologies Used:** Flutter, Dart
-
-### [Sm3ly](https://github.com/mohamedrashad102/sm3ly)
-- **Description:** An educational application that stores words in Arabic and English in classes, using Firebase for backend services and Firebase Authentication for user management. It allows students to test their vocabulary in a specialized class.
-- **Technologies Used:** Flutter, Dart, Firebase, Shared Preference
-
-### [Absence Schedule](https://github.com/mohamedrashad102/absence_schedule)
-- **Description:** An attendance management application that uses Hive for local data storage to record and save students' attendance data. It helps educators track attendance and generate reports efficiently, ensuring accurate record-keeping.
-- **Technologies Used:** Flutter, Dart, Hive
-
-## 📫 Contact Me
-
-- **Email:** mohamedrashadhyg@gmail.com
-- **LinkedIn:** [Mohamed Rashad](https://www.linkedin.com/in/mohamed-rashad-2bb024288/)
+<div align="center">
+  <a href="https://github.com/mohamedrashad102">
+  </a>
+  <h1 align="center">Hi there! I'm Mohamed Rashad 👋</h1>
+  <p align="center">
+    A passionate <b style="color: #007BFF;">Flutter Developer</b> & <b style="color: #00C19B;">Cross-Platform Mobile Applications Engineer</b> 
+    crafting intuitive and beautiful experiences.
+  </p>
+</div>
 
 ---
 
-## 📈 GitHub Stats
+### 🚀 About Me
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedrashad102&show_icons=true&theme=radical)
+I'm Mohamed Rashad, a dedicated Flutter Developer and Mobile App Engineer with **+2 years of experience** building high-performance cross-platform mobile applications. I'm proficient in state management, Firebase integration, and applying clean architecture principles. Currently, I am pursuing my studies at the **Faculty of Computer Science, Zagazig University (2021-2025)**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrashad102&layout=compact&theme=radical)
+My commitment lies in delivering intuitive user experiences and collaborating effectively to achieve project goals, turning innovative ideas into engaging digital products.
 
 ---
 
-Thank you for visiting my profile! Feel free to connect with me or check out my projects.
+### 🛠️ Technical Toolkit
+
+Here's a snapshot of the technologies, frameworks, and tools I use to bring ideas to life:
+
+| Category                   | Skills & Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| :------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Frameworks & Languages** | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>                                                                                                                                                                                                                                                                                                                                                   |
+| **State Management**       | <img src="https://img.shields.io/badge/BLoC-FF0000?style=for-the-badge&logo=bloc&logoColor=white" alt="BLoC Badge"/> <img src="https://img.shields.io/badge/Riverpod-02B7CD?style=for-the-badge&logo=riverpod&logoColor=white" alt="Riverpod Badge"/> <img src="https://img.shields.io/badge/Provider-1B8AF2?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider Badge"/>                                                                                                                                                                                                                |
+| **Backend & Storage**      | <img src="https://img.shields.io/badge/RESTful%20APIs-007BFF?style=for-the-badge" alt="RESTful APIs Badge"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Badge"/> <img src="https://img.shields.io/badge/Hive-FB8C00?style=for-the-badge" alt="Hive Badge"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/> |
+| **Version Control**        | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>                                                                                                                                                                                                                                                                                                                                                         |
+| **Tools**                  | <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge"/> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio Badge"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>                                                                                                                                                                                |
+| **Other Skills**           | <img src="https://img.shields.io/badge/Problem%20Solving-lightgrey?style=for-the-badge" alt="Problem Solving Badge"/> <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-darkblue?style=for-the-badge" alt="Data Structures & Algorithms Badge"/> <img src="https://img.shields.io/badge/Testing%20&%20Debugging-red?style=for-the-badge" alt="Testing & Debugging Badge"/>                                                                                                                                                                                                   |
+
+---
+
+### 📊 GitHub Stats
+
+A glimpse into my coding activity and contributions:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedrashad102&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=20" alt="Mohamed Rashad's GitHub Stats" height="150px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedrashad102&theme=dark&hide_border=true" alt="Mohamed Rashad's GitHub Streak" height="150px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrashad102&layout=compact&theme=dark&hide_border=true" alt="Mohamed Rashad's Top Languages" width="350px"/>
+  <br/>
+</p>
+
+---
+
+### 📱 My Projects
+
+Explore some of the applications I've built, focusing on clean UI/UX and robust functionality. These projects demonstrate my ability to apply diverse technologies and architectural principles to solve real-world problems.
+
+---
+
+### 💡 Imtyaze
+A comprehensive learning platform offering high-quality courses for students from high school to university. It features secure authentication, structured course enrollment, seamless video streaming with progress tracking, and personalized learning experiences. My contributions focused on Clean Architecture, Riverpod for state management, and API integration to enhance the UI/UX.
+
+<p align="center">
+  <br>
+  ![tadabr](https://github.com/user-attachments/assets/0581a656-26a1-4567-8c1f-676921cbb606)
+</p>
+<p align="center">
+  <a href="https://apkpure.com/ar/%D8%A7%D9%85%D8%AA%D9%8A%D8%A7%D8%B2/com.imtyazeplus.imtyaze">
+    <img src="https://img.shields.io/badge/Get%20it%20on%20ApkPure-green.svg?style=for-the-badge&logo=android&logoColor=white" alt="Get it on ApkPure" />
+  </a>
+  <a href="https://apps.apple.com/us/app/%D8%A7%D9%85%D8%AA%D9%8A%D8%A7%D8%B2/id6742832357">
+    <img src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" alt="Get it on App Store" />
+  </a>
+</p>
+
+---
+
+### 💡 Tadabar
+A cross-platform Islamic application featuring Quran recitation, Hadiths, Azkar, Qibla direction, and a Zakat calculator. It includes a custom-built chatbot for Islamic inquiries and a Light & Dark theme for enhanced user experience.
+
+<p align="center">
+  <br>
+  ![tadabr](https://github.com/user-attachments/assets/8c40cfb1-6ca9-44cf-9fa5-98ee19787094)
+</p>
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.binaryplus.tadabar&pcampaignid=web_share">
+    <img src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" alt="Get it on Google Play" />
+  </a>
+</p>
+
+---
+
+### 🤝 Let's Connect!
+
+I'm always open to new opportunities, collaborations, and discussions about Flutter and mobile development. Feel free to reach out!
+
+<p align="center">
+  <a href="mailto:mohamedrashadhyg@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/mohamed-rashad-2bb024288">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mohamedrashad102">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <!-- If you have a personal portfolio, uncomment and update the link below: -->
+  <!-- <a href="YOUR_PERSONAL_PORTFOLIO_LINK">
+    <img src="https://img.shields.io/badge/My%20Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a> -->
+</p>
