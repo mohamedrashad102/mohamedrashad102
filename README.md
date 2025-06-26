@@ -1,105 +1,85 @@
+# Hi there, I'm Mohamed Rashad 👋
+
+## 🚀 About Me
+
+I'm a passionate **Flutter Developer** with **2+ years of experience** building high-performance cross-platform mobile applications. I specialize in clean architecture, advanced state management using Riverpod and Bloc, and seamless Firebase integration. I strive to create intuitive and engaging user experiences with scalable and maintainable code.
+
+## 🔗 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mohamed-rashad-portfolio.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-rashad-2bb024288)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedrashadhyg@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/+201555761846)
+
+## 💻 Tech Stack
+
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### State Management
+![Riverpod](https://img.shields.io/badge/Riverpod-00D2FF?style=for-the-badge&logo=flutter&logoColor=white)
+![Bloc](https://img.shields.io/badge/Bloc-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+### Backend & Storage
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Hive](https://img.shields.io/badge/Hive-FFA500?style=for-the-badge&logo=apache-hive&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Architecture & Tools
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-4CAF50?style=for-the-badge)
+![MVVM](https://img.shields.io/badge/MVVM-9C27B0?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🎯 Featured Projects
+
+### 🚀 Imtyaze - Learning Platform
+Learning platform with video courses, authentication, and comprehensive exam system.
+
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/app/your-app-id) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/imtyaze_app/1)
+
+- **Tech**: Flutter, Riverpod, Video Streaming, RESTful API
+- **Key Features**: Course management, User authentication, Exam system
+
+### 📱 Tadabar - Islamic App
+Comprehensive Islamic application with Quran, Azkar, Qibla direction, and AI chatbot.
+
+[![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.binaryplus.tadabar&pcampaignid=web_share)
+
+- **Tech**: Flutter, Cubit, AI Integration, RESTful API
+- **Key Features**: Quran reader, Prayer times, Qibla compass, Islamic chatbot
+
+### 👶 Kidglish - Kids Learning App
+Interactive English learning application for children with speech recognition capabilities.
+
+[![Google Drive](https://img.shields.io/badge/Google_Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1RbTfjFqyUkj7dI1dS9Av4lVHUm5HlxOf)
+
+- **Tech**: Flutter, Speech Recognition, Interactive UI
+- **Key Features**: Voice recognition, Interactive games, Progress tracking
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/mohamedrashad102">
-  </a>
-  <h1 align="center">Hi there! I'm Mohamed Rashad 👋</h1>
-  <p align="center">
-    A <b style="color: #007BFF;">Flutter Developer</b> & <b style="color: #00C19B;">Cross-Platform Mobile Applications Engineer</b> 
-    crafting intuitive and beautiful experiences.
-  </p>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamedrashad102&show_icons=true&theme=tokyonight&hide_border=true" alt="Mohamed's GitHub Stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrashad102&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165">
 </div>
 
----
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedrashad102&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165">
+</div>
 
-### 🚀 About Me
+## 🎯 What I Bring to the Table
 
-Hi, I'm **Mohamed Rashad** – a Flutter Developer with over **2 years of experience** in building high-performance, cross-platform mobile apps.
+- **Clean Code Advocate**: Following SOLID principles and clean architecture patterns
+- **Performance Optimizer**: Creating smooth, responsive applications with optimal performance
+- **Problem Solver**: Turning complex requirements into elegant, user-friendly solutions
+- **Team Collaborator**: Experience working in agile environments with cross-functional teams
+- **Continuous Learner**: Always staying updated with the latest Flutter and mobile development trends
 
-- 💻 Proficient in **state management**, **Firebase**, and **clean architecture**
-- 🎯 Focused on creating smooth user experiences and scalable codebases
-- 🎓 Studying Computer Science at **Zagazig University (2021–2025)**
+## 🌟 Let's Build Something Amazing Together!
 
-I enjoy transforming ideas into impactful mobile solutions and collaborating on meaningful projects.
+I'm always excited to collaborate on impactful projects and contribute to innovative mobile solutions. Whether it's a startup MVP or an enterprise-level application, I'm ready to bring your ideas to life with cutting-edge Flutter development.
 
----
-
-### 🛠️ Technical Toolkit
-
-Here's a snapshot of the technologies, frameworks, and tools I use to bring ideas to life:
-
-| Category                   | Skills & Technologies                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
-| :------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Frameworks & Languages** | <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Badge"/> <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart Badge"/>                                                                                                                                                                                                                                                                                                                                                   |
-| **State Management**       | <img src="https://img.shields.io/badge/BLoC-FF0000?style=for-the-badge&logo=bloc&logoColor=white" alt="BLoC Badge"/> <img src="https://img.shields.io/badge/Riverpod-02B7CD?style=for-the-badge&logo=riverpod&logoColor=white" alt="Riverpod Badge"/> <img src="https://img.shields.io/badge/Provider-1B8AF2?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider Badge"/>                                                                                                                                                                                                                |
-| **Backend & Storage**      | <img src="https://img.shields.io/badge/RESTful%20APIs-007BFF?style=for-the-badge" alt="RESTful APIs Badge"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase Badge"/> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase Badge"/> <img src="https://img.shields.io/badge/Hive-FB8C00?style=for-the-badge" alt="Hive Badge"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite Badge"/> |
-| **Version Control**        | <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>                                                                                                                                                                                                                                                                                                                                                         |
-| **Tools**                  | <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code Badge"/> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio Badge"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma Badge"/>                                                                                                                                                                                |
-| **Other Skills**           | <img src="https://img.shields.io/badge/Problem%20Solving-lightgrey?style=for-the-badge" alt="Problem Solving Badge"/> <img src="https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-darkblue?style=for-the-badge" alt="Data Structures & Algorithms Badge"/> <img src="https://img.shields.io/badge/Testing%20&%20Debugging-red?style=for-the-badge" alt="Testing & Debugging Badge"/>                                                                                                                                                                                                   |
-
----
-
-### 📊 GitHub Stats
-
-A glimpse into my coding activity and contributions:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedrashad102&show_icons=true&theme=dark&include_all_commits=true&count_private=true&line_height=20" alt="Mohamed Rashad's GitHub Stats" height="150px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedrashad102&theme=dark&hide_border=true" alt="Mohamed Rashad's GitHub Streak" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedrashad102&layout=compact&theme=dark&hide_border=true" alt="Mohamed Rashad's Top Languages" width="350px"/>
-  <br/>
-</p>
-
----
-
-### 📱 My Projects
-
-Explore some of the applications I've built, focusing on clean UI/UX and robust functionality. These projects demonstrate my ability to apply diverse technologies and architectural principles to solve real-world problems.
-
----
-
-### 💡 Imtyaze
-A comprehensive learning platform offering high-quality courses for students from high school to university. It features secure authentication, structured course enrollment, seamless video streaming with progress tracking, and personalized learning experiences. My contributions focused on Clean Architecture, Riverpod for state management, and API integration to enhance the UI/UX.
-
-<p align="center">
-  <br>
-</p>
-<p align="center">
-  <a href="https://apkpure.com/ar/%D8%A7%D9%85%D8%AA%D9%8A%D8%A7%D8%B2/com.imtyazeplus.imtyaze">
-    <img src="https://img.shields.io/badge/Get%20it%20on%20ApkPure-green.svg?style=for-the-badge&logo=android&logoColor=white" alt="Get it on ApkPure" />
-  </a>
-  <a href="https://apps.apple.com/us/app/%D8%A7%D9%85%D8%AA%D9%8A%D8%A7%D8%B2/id6742832357">
-    <img src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" alt="Get it on App Store" />
-  </a>
-</p>
-
----
-
-### 💡 Tadabar
-A cross-platform Islamic application featuring Quran recitation, Hadiths, Azkar, Qibla direction, and a Zakat calculator. It includes a custom-built chatbot for Islamic inquiries and a Light & Dark theme for enhanced user experience.
-
-<p align="center">
-  <br>
-  <img src="tadabr.png" alt="Tadabar" />
-</p>
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.binaryplus.tadabar&pcampaignid=web_share">
-    <img src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" alt="Get it on Google Play" />
-  </a>
-</p>
-
----
-
-### 🤝 Let's Connect!
-
-I'm always open to new opportunities, collaborations, and discussions about Flutter and mobile development. Feel free to reach out!
-
-<p align="center">
-  <a href="mailto:mohamedrashadhyg@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/mohamed-rashad-2bb024288">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/mohamedrashad102">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
+**Ready to discuss your next project?** Let's connect! 🚀
